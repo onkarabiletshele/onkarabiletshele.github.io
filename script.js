@@ -36,7 +36,7 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Welcome!"," ","Allow me to take you through my profile!", " ", "My name is Onkarabile Tshele and I am a Data Scientist.", " ", "If you want to know more, press the button below", " "],
-        typeSpeed: 160,
+        typeSpeed: 80,
         backSpeed: 60,
         loop: true
     });
